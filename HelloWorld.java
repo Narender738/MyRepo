@@ -5,6 +5,7 @@ class HelloWorld
 	System.out.println("Hello world....!");
 	System.out.println("Hai");
 	System.out.println("Welcome");
+	System.out.println("Add to eclipse");
 }
 
 }
